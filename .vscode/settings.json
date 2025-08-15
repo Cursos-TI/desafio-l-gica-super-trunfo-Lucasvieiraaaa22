@@ -1,5 +1,8 @@
 {
     "files.associations": {
         "AVENTUREIRO.C": "cpp"
-    }
+    },
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
 }
